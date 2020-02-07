@@ -1,3 +1,4 @@
 # about
 
-follow https://rustwasm.github.io/book/game-of-life/introduction.html
+follow
+https://rustwasm.github.io/book/game-of-life/introduction.html
